@@ -10,5 +10,5 @@ function feetToMile(feet) {
         return mile_value.toFixed(3);
     }
 }
-var mile = feetToMile(6876577);
+var mile = feetToMile(feet);
 console.log("The required result is :",mile,"mile.");
